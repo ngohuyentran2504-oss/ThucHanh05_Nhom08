@@ -1,9 +1,9 @@
 # BÁO CÁO BÀI THỰC HÀNH 05
 
 ## 1. Danh sách các file trong Repository
-- `index.html`: File mã nguồn HTML hiển thị nội dung infographic và video.
-- `infographic.png`: File ảnh Infographic thiết kế về lợi ích công nghệ số.
-- `video.mp4`: File video ngắn về ứng dụng công nghệ số trong học tập.
+- `HTML.html`: File mã nguồn HTML hiển thị nội dung infographic và video.
+- `Nhiệm vụ 2.1.png`: File ảnh Infographic thiết kế về lợi ích công nghệ số.
+- `Nhiệm vụ 2.2.mp4`: File video ngắn về ứng dụng công nghệ số trong học tập.
 - `BaoCao_ThucHanh05.pdf`: File báo cáo văn bản chi tiết bài thực hành.
 
 ## 2. Trích dẫn nguồn hỗ trợ AI
